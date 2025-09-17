@@ -1,7 +1,4 @@
 # This is a CODEOWNERS file that assigns ownership to different parts of the repo.
 # It is used by the agent to suggest the most likely owner for a PR.
 * @revaan-mishra
-/src/ @revaan-mishra
-/test/ @qa-team
-/src/ @sarthak1d-ux
-/test/ @sarthak1d-ux
+
