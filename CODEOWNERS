@@ -2,7 +2,6 @@
 # It is used by the agent to suggest the most likely owner for a PR.
 
 /src/ @revaan-mishra
-/test/ @qa-team
 /src/ @sarthak1d-ux
 /test/ @sarthak1d-ux
 /fix-map-1646/ @sarthak1d-ux
